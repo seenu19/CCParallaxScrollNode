@@ -1,0 +1,4 @@
+CCParallaxScrollNode
+====================
+
+scroll background parallaxly
