@@ -33,4 +33,4 @@ Use it in your class file..
     this->addChild(pNode);
 
     // in update()
-    pNode->updateWithVelocity(-30, delta);
+    pNode->updateWithVelocity(ccp(-100,0), delta);
