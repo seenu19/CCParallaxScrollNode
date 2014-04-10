@@ -3,6 +3,8 @@ CCParallaxScrollNode
 
 scroll background parallax for cocos2d-x 2.2.2.
 
+tested with cocos2dx 2.2.2
+
 stungyen created for cocos2dx 3.0 version. it having some issues in 2.2.2
 https://github.com/stnguyen/CCParallaxScrollNode 
 
